@@ -1,6 +1,7 @@
 # Bertoti
 Aula - Engenharia de Software
 
+Aula - 24 de FEvereiro
 1. O que é Engenharia de Software?
 Engenharia de Software consiste em entender a necessidade e prazos do cliente para que a equipe possa desenvolver o projeto de forma eficiente e escalável dentro dos requisitos passados.
 
@@ -23,3 +24,6 @@ Requisitos não funcionais são as definições de como o sistema fará o que é
 2.3. Dê 2 exemplos de trade-offs em requisitos não funcionais
 - A utilização de uma liguagem de programação que facilitará a interface do usuário mas que deixará o sistema mais lento
 - A utilização de um banco de dados mais robusto mas com menos velocidade de processamento
+
+Aula - 06 de Março
+https://drive.google.com/file/d/14Ag8I7cmzkdYyg53iVLRs1O26Sz-7kPe/view?usp=sharing
